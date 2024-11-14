@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemang-solanki" alt="hemang-solanki" /></a> </p>
 
-<a href-"https://drive.google.com/file/d/11lhf4JiUf1a-_F8zhsTWkwf8An9c8Fhh/view?usp=sharing">My resume</a>
+📝   <a href="https://drive.google.com/file/d/11lhf4JiUf1a-_F8zhsTWkwf8An9c8Fhh/view?usp=sharing">My Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
