@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemang-solanki" alt="hemang-solanki" /></a> </p>
 
+<a href-"https://drive.google.com/file/d/11lhf4JiUf1a-_F8zhsTWkwf8An9c8Fhh/view?usp=sharing">My resume</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hemang-solanki-71300a254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hemang-solanki-71300a254/" height="30" width="40" /></a>
