@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemang-solanki&label=Profile%20views&color=0e75b6&style=flat" alt="hemang-solanki" /> </p>
-
+<p>https://raw.githubusercontent.com/BEPb/BEPb/refs/heads/main/src/header_.png</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemang-solanki" alt="hemang-solanki" /></a> </p>
 
 📝   <a href="https://drive.google.com/file/d/11lhf4JiUf1a-_F8zhsTWkwf8An9c8Fhh/view?usp=sharing">My Resume</a>
