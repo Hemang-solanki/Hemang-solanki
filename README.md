@@ -12,7 +12,7 @@
 
 - 💼   <a href="https://https://hemang-solanki.github.io//">My Portfolio</a>
 
-📝   <a href="https://drive.google.com/file/d/11lhf4JiUf1a-_F8zhsTWkwf8An9c8Fhh/view?usp=sharing">My Resume</a>
+- 📝   <a href="https://drive.google.com/file/d/11lhf4JiUf1a-_F8zhsTWkwf8An9c8Fhh/view?usp=sharing">My Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
