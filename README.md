@@ -1,8 +1,8 @@
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/refs/heads/main/src/header_.png" alt="hemang-solanki" />
 <h1 align="center">👋 Hello Everyone! I’m currently pursuing my B.E. in Computer Engineering and a Full Stack Development course at Red and White Multimedia Education.</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemang-solanki&label=Profile%20views&color=0e75b6&style=flat" alt="hemang-solanki" /> </p>
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/refs/heads/main/src/header_.png" alt="hemang-solanki" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemang-solanki" alt="hemang-solanki" /></a> </p>
 
 - 🌱 I’m currently learning **NODE**
